@@ -1,0 +1,13 @@
+package com.okuru.springmypostman;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringMyPostmanApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringMyPostmanApplication.class, args);
+	}
+
+}
